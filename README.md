@@ -1,2 +1,15 @@
-# Email-Management-System
-Console-based Email Management System built using Java, JDBC, and MySQL
+# Email Management System v1
+
+A console-based email management application built in Java and MySQL.
+
+## Features:
+- User authentication
+- Email composition
+- Inbox management
+- Persistent storage using MySQL
+- Email timestamps
+
+## Tech Stack:
+- Java
+- JDBC
+- MySQL
