@@ -1,4 +1,4 @@
-package Email_Management;
+package Email_Management.Email_System_v1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
